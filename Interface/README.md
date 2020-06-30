@@ -1,2 +1,2 @@
 # project-go
-golang Projects for study
+golang Projects for study - samples
